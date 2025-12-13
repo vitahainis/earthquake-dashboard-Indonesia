@@ -18,7 +18,7 @@ The dashboard analyzes seismic patterns including:
 - CRISP-DM methodology
 
 ## Dashboard Link
-[View Dashboard Here](PASTE_YOUR_LOOKER_STUDIO_LINK)
+[View Dashboard Here](dashboard/dashboard_link.txt)
 
 ## Output
 - Interactive map visualization
