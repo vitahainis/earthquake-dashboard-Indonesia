@@ -12,7 +12,7 @@ The dashboard analyzes seismic patterns including:
 - Earthquake dataset obtained from Kaggle:
   https://www.kaggle.com/datasets/kekavigi/earthquakes-in-indonesia
 
-## Tools & Technologies
+## Tools
 - Looker Studio
 - Data preprocessing using Python (Pandas)
 - CRISP-DM methodology
