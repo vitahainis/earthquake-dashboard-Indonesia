@@ -9,8 +9,8 @@ The dashboard analyzes seismic patterns including:
 - High-risk regions based on earthquake frequency
 
 ## Data Source
-- Earthquake dataset obtained from Kaggle:
-  https://www.kaggle.com/datasets/kekavigi/earthquakes-in-indonesia
+Earthquake dataset obtained from Kaggle:
+https://www.kaggle.com/datasets/kekavigi/earthquakes-in-indonesia
 
 ## Tools
 - Looker Studio
