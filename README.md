@@ -8,6 +8,11 @@ The dashboard analyzes seismic patterns including:
 - Magnitude and depth distribution
 - High-risk regions based on earthquake frequency
 
+## Tools
+- Looker Studio
+- Data preprocessing using Python (Pandas)
+- CRISP-DM methodology
+
 ## Data Source
 Earthquake dataset obtained from Kaggle:
 https://www.kaggle.com/datasets/kekavigi/earthquakes-in-indonesia
@@ -19,13 +24,12 @@ After the data preparation stage, the dataset underwent several refinements to i
 - Missing values and data inconsistencies were successfully addressed.
 - The finalized dataset was used for Exploratory Data Analysis (EDA) and the development of the Interactive Earthquake Distribution Dashboard of Indonesia (2016–2025).
 
-## Tools
-- Looker Studio
-- Data preprocessing using Python (Pandas)
-- CRISP-DM methodology
-
 ## Dashboard Link
 [View Dashboard Here](dashboard/dashboard_link.txt)
+
+## Data Storytelling
+This data storytelling explores earthquake activity in Indonesia from 2016 to 2025
+https://www.canva.com/design/DAG8cYlp61Q/UHoDRxGwyEa0wpoEqv9_IQ/edit?utm_content=DAG8cYlp61Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Key Findings
 After analyzing earthquake data from 2016–2025, seven key patterns were identified:
