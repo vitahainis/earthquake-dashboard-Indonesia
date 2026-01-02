@@ -12,6 +12,13 @@ The dashboard analyzes seismic patterns including:
 Earthquake dataset obtained from Kaggle:
 https://www.kaggle.com/datasets/kekavigi/earthquakes-in-indonesia
 
+## Data Preparation
+After the data preparation stage, the dataset underwent several refinements to improve consistency and analytical readiness, resulting in the following key changes:
+- The final dataset consists of 96,959 rows and 13 columns (variables).
+- Date and time formats were standardized across all records.
+- Missing values and data inconsistencies were successfully addressed.
+- The finalized dataset was used for Exploratory Data Analysis (EDA) and the development of the Interactive Earthquake Distribution Dashboard of Indonesia (2016–2025).
+
 ## Tools
 - Looker Studio
 - Data preprocessing using Python (Pandas)
